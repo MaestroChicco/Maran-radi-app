@@ -1,4 +1,4 @@
-# Maran-radi-app
+# Maran-radio-app
 
 
 I've created your "Maran" radio app with a beautiful brown/amber color scheme! Here are the key features I included:
